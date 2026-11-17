@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Inetis/Inetis.csproj" />
+  <Project Path="InetisTest/InetisTests.csproj" Id="173968a2-a27a-46e0-9484-0b3a65057d52" />
+</Solution>
